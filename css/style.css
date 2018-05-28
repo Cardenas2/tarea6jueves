@@ -14,6 +14,7 @@ body{
 h1{
 	text-transform: uppercase;
 	font-size: 1.4rem;
+	margin: 1em 0;
 }
 h2{
 	text-transform: uppercase;
@@ -100,4 +101,11 @@ header{
 .col-ancho5{
 	width: 30%;
 	clear: both;
+}
+
+img.mi-foto{
+	text-align: center;
+	border-radius: 50%;
+	width: 150px;
+	z-index: 100;
 }
