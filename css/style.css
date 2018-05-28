@@ -102,10 +102,20 @@ header{
 	width: 30%;
 	clear: both;
 }
+.ancho-6{
+	margin:0 5px;
+	color:#fff;
+	background-color: #98447F;
+}
 
 img.mi-foto{
 	text-align: center;
 	border-radius: 50%;
 	width: 150px;
 	z-index: 100;
+}
+footer .footer{
+	border-top: 2px solid #dedede;
+	text-align: right;
+	padding: 10px;
 }
